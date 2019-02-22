@@ -63,7 +63,7 @@ For discussions about the frequency plans in different countries, see the posts 
 | Chad
 | Chile | AU915-928 | [FIJA NORMA TECNICA DE EQUIPOS DE ALCANCE REDUCIDO](https://www.leychile.cl/Consulta/m/norma_plana?org=&idNorma=240404) |
 | China | CN470-510<br />CN779-787 | |
-| Colombia | US902-928 | |
+| Colombia | AU915-928 | [Resolución 711 del 11 de Oct de 2016](http://cnabf.ane.gov.co/cnabf/modulos/pdfs/Resolucion_711_de_2016.pdf) |
 | Comoros
 | Democratic Republic of the Congo | EU863-870<br />EU433 | CRASA follows CEPT Rec. 70-03 |
 | Republic of the Congo
